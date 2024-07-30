@@ -1,8 +1,13 @@
-##This React project demonstrates data filtration from an API, rendering different UIs based on filtration criteria, and creating a responsive user interface. It includes ##the use of toast notifications for user interactions such as liking and disliking projects. Key features include:
+##This React project demonstrates data filtration from an API, rendering different UIs based on filtration criteria, and creating a responsive user interface.
+
+It includes the use of toast notifications for user interactions such as liking and disliking projects. Key features include:
 
 #Data Filtration: Fetch and filter data from an API, displaying results based on user-defined criteria.
+
 #Dynamic UI Rendering: Adapt and display different UIs depending on the filtered data.
+
 #Responsive Design: Ensure the UI is responsive and optimized for various screen sizes and devices.
+
 #Toast Notifications: Implement toast messages to provide feedback for actions like liking or disliking projects.
 
 
